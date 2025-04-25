@@ -1,0 +1,69 @@
+{"context":"NestApplication","level":"info","message":"Application running on port 3000","timestamp":"2025-04-25T05:33:43.476Z"}
+{"context":"HTTP","level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2025:05:38:34 +0000] \"POST /users/signup HTTP/1.1\" 404 76 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","timestamp":"2025-04-25T05:38:34.973Z"}
+{"context":"HTTP","level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2025:05:39:00 +0000] \"POST /users/signup HTTP/1.1\" 404 76 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","timestamp":"2025-04-25T05:39:00.375Z"}
+{"context":"NestApplication","level":"info","message":"Application running on port 3000","timestamp":"2025-04-25T05:39:14.459Z"}
+{"context":"HTTP","level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2025:05:39:16 +0000] \"POST /users/signup HTTP/1.1\" 404 76 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","timestamp":"2025-04-25T05:39:16.836Z"}
+{"context":"HTTP","level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2025:05:40:31 +0000] \"POST /api/v1/users/signup HTTP/1.1\" 500 52 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","timestamp":"2025-04-25T05:40:31.455Z"}
+{"context":"NestApplication","level":"info","message":"Application running on port 3000","timestamp":"2025-04-25T05:40:44.826Z"}
+{"context":"HTTP","level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2025:05:40:47 +0000] \"POST /api/v1/users/signup HTTP/1.1\" 409 74 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","timestamp":"2025-04-25T05:40:47.017Z"}
+{"context":"HTTP","level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2025:05:41:21 +0000] \"POST /api/v1/users/signup HTTP/1.1\" 500 52 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","timestamp":"2025-04-25T05:41:21.327Z"}
+{"context":"HTTP","level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2025:05:42:07 +0000] \"POST /api/v1/users/login HTTP/1.1\" 404 82 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","timestamp":"2025-04-25T05:42:07.628Z"}
+{"context":"HTTP","level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2025:05:42:15 +0000] \"POST /api/v1/users/signin HTTP/1.1\" 404 83 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","timestamp":"2025-04-25T05:42:15.714Z"}
+{"context":"HTTP","level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2025:05:45:12 +0000] \"POST /api/v1/leave HTTP/1.1\" 400 113 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","timestamp":"2025-04-25T05:45:12.648Z"}
+{"context":"HTTP","level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2025:05:47:40 +0000] \"POST /api/v1/leave HTTP/1.1\" 401 77 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","timestamp":"2025-04-25T05:47:40.416Z"}
+{"context":"NestApplication","level":"info","message":"Application running on port 3000","timestamp":"2025-04-25T05:47:55.862Z"}
+{"context":"HTTP","level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2025:05:47:57 +0000] \"POST /api/v1/leave HTTP/1.1\" 400 156 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","timestamp":"2025-04-25T05:47:57.489Z"}
+{"context":"HTTP","level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2025:05:48:20 +0000] \"POST /api/v1/leave HTTP/1.1\" 400 156 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","timestamp":"2025-04-25T05:48:20.649Z"}
+{"context":"HTTP","level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2025:05:48:28 +0000] \"POST /api/v1/leave HTTP/1.1\" 500 52 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","timestamp":"2025-04-25T05:48:28.681Z"}
+{"context":"HTTP","level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2025:05:48:30 +0000] \"POST /api/v1/leave HTTP/1.1\" 500 52 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","timestamp":"2025-04-25T05:48:30.879Z"}
+{"context":"HTTP","level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2025:05:48:36 +0000] \"POST /api/v1/leave HTTP/1.1\" 400 156 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","timestamp":"2025-04-25T05:48:36.202Z"}
+{"context":"NestApplication","level":"info","message":"Application running on port 3000","timestamp":"2025-04-25T05:48:59.823Z"}
+{"context":"HTTP","level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2025:05:49:20 +0000] \"POST /api/v1/leave HTTP/1.1\" 500 52 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","timestamp":"2025-04-25T05:49:20.372Z"}
+{"context":"HTTP","level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2025:05:49:45 +0000] \"POST /api/v1/leave HTTP/1.1\" 400 87 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","timestamp":"2025-04-25T05:49:45.208Z"}
+{"context":"NestApplication","level":"info","message":"Application running on port 3000","timestamp":"2025-04-25T05:50:00.227Z"}
+{"context":"HTTP","level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2025:05:50:04 +0000] \"POST /api/v1/leave HTTP/1.1\" 400 87 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","timestamp":"2025-04-25T05:50:04.938Z"}
+{"context":"HTTP","level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2025:05:50:17 +0000] \"POST /api/v1/leave HTTP/1.1\" 500 52 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","timestamp":"2025-04-25T05:50:17.886Z"}
+{"context":"HTTP","level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2025:05:51:18 +0000] \"POST /api/v1/leave HTTP/1.1\" 400 87 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","timestamp":"2025-04-25T05:51:18.842Z"}
+{"context":"HTTP","level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2025:05:51:28 +0000] \"POST /api/v1/leave HTTP/1.1\" 400 87 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","timestamp":"2025-04-25T05:51:28.977Z"}
+{"context":"HTTP","level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2025:05:51:29 +0000] \"POST /api/v1/leave HTTP/1.1\" 400 87 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","timestamp":"2025-04-25T05:51:29.516Z"}
+{"context":"NestApplication","level":"info","message":"Application running on port 3000","timestamp":"2025-04-25T05:53:01.180Z"}
+{"context":"HTTP","level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2025:05:53:04 +0000] \"POST /api/v1/leave HTTP/1.1\" 404 71 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","timestamp":"2025-04-25T05:53:04.141Z"}
+{"context":"HTTP","level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2025:05:54:15 +0000] \"POST /api/v1/leave HTTP/1.1\" 404 71 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","timestamp":"2025-04-25T05:54:15.382Z"}
+{"context":"HTTP","level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2025:05:55:36 +0000] \"POST /api/v1/leave HTTP/1.1\" 404 71 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","timestamp":"2025-04-25T05:55:36.366Z"}
+{"context":"HTTP","level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2025:06:05:20 +0000] \"POST /api/v1/users/signup HTTP/1.1\" 500 52 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","timestamp":"2025-04-25T06:05:20.730Z"}
+{"context":"HTTP","level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2025:06:07:53 +0000] \"POST /api/v1/users/signup HTTP/1.1\" 409 74 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","timestamp":"2025-04-25T06:07:53.295Z"}
+{"context":"HTTP","level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2025:06:08:39 +0000] \"POST /api/v1/users/signup HTTP/1.1\" 500 52 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","timestamp":"2025-04-25T06:08:39.861Z"}
+{"context":"HTTP","level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2025:06:09:44 +0000] \"POST /api/v1/users/signup HTTP/1.1\" 500 52 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","timestamp":"2025-04-25T06:09:44.105Z"}
+{"context":"HTTP","level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2025:06:10:43 +0000] \"POST /api/v1/users/signup HTTP/1.1\" 500 52 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","timestamp":"2025-04-25T06:10:43.907Z"}
+{"context":"HTTP","level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2025:06:11:19 +0000] \"POST /api/v1/users/signup HTTP/1.1\" 409 74 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","timestamp":"2025-04-25T06:11:19.036Z"}
+{"context":"NestApplication","level":"info","message":"Application running on port 3000","timestamp":"2025-04-25T06:14:28.705Z"}
+{"context":"NestApplication","level":"info","message":"Application running on port 3000","timestamp":"2025-04-25T06:14:40.829Z"}
+{"context":"HTTP","level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2025:06:15:05 +0000] \"POST /api/v1/users/signup HTTP/1.1\" 500 52 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","timestamp":"2025-04-25T06:15:05.367Z"}
+{"context":"NestApplication","level":"info","message":"Application running on port 3000","timestamp":"2025-04-25T06:18:58.750Z"}
+{"context":"HTTP","level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2025:06:19:02 +0000] \"POST /api/v1/users/signup HTTP/1.1\" 500 52 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","timestamp":"2025-04-25T06:19:02.372Z"}
+{"context":"NestApplication","level":"info","message":"Application running on port 3000","timestamp":"2025-04-25T06:21:03.012Z"}
+{"context":"HTTP","level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2025:06:21:06 +0000] \"POST /api/v1/users/signup HTTP/1.1\" 500 52 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","timestamp":"2025-04-25T06:21:06.185Z"}
+{"context":"NestApplication","level":"info","message":"Application running on port 3000","timestamp":"2025-04-25T06:22:53.049Z"}
+{"context":"NestApplication","level":"info","message":"Application running on port 3000","timestamp":"2025-04-25T06:23:16.567Z"}
+{"context":"NestApplication","level":"info","message":"Application running on port 3000","timestamp":"2025-04-25T06:24:12.930Z"}
+{"context":"HTTP","level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2025:06:24:48 +0000] \"POST /api/v1/users/signup HTTP/1.1\" 201 120 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","timestamp":"2025-04-25T06:24:48.507Z"}
+{"context":"HTTP","level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2025:06:26:30 +0000] \"POST /api/v1/users/signup HTTP/1.1\" 201 120 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","timestamp":"2025-04-25T06:26:30.095Z"}
+{"context":"HTTP","level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2025:06:28:56 +0000] \"POST /api/v1/users/verify-otp HTTP/1.1\" 400 122 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","timestamp":"2025-04-25T06:28:56.251Z"}
+{"context":"HTTP","level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2025:06:29:11 +0000] \"POST /api/v1/users/verify-otp HTTP/1.1\" 201 41 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","timestamp":"2025-04-25T06:29:11.803Z"}
+{"context":"NestApplication","level":"info","message":"Application running on port 3000","timestamp":"2025-04-25T06:29:52.797Z"}
+{"context":"NestApplication","level":"info","message":"Application running on port 3000","timestamp":"2025-04-25T06:30:44.439Z"}
+{"context":"HTTP","level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2025:06:30:45 +0000] \"POST /api/v1/users/verify-otp HTTP/1.1\" 404 64 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","timestamp":"2025-04-25T06:30:45.771Z"}
+{"context":"NestApplication","level":"info","message":"Application running on port 3000","timestamp":"2025-04-25T07:15:55.493Z"}
+{"context":"NestApplication","level":"info","message":"Application running on port 3000","timestamp":"2025-04-25T07:16:12.548Z"}
+{"context":"NestApplication","level":"info","message":"Application running on port 3000","timestamp":"2025-04-25T07:16:20.247Z"}
+{"context":"NestApplication","level":"info","message":"Application running on port 3000","timestamp":"2025-04-25T07:18:52.244Z"}
+{"context":"NestApplication","level":"info","message":"Application running on port 3000","timestamp":"2025-04-25T07:27:49.636Z"}
+{"context":"NestApplication","level":"info","message":"Application running on port 3000","timestamp":"2025-04-25T07:30:35.226Z"}
+{"context":"HTTP","level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2025:07:32:40 +0000] \"POST /api/v1/leave HTTP/1.1\" 400 121 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","timestamp":"2025-04-25T07:32:40.213Z"}
+{"context":"HTTP","level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2025:07:34:24 +0000] \"POST /api/v1/leave HTTP/1.1\" 400 87 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","timestamp":"2025-04-25T07:34:24.306Z"}
+{"context":"HTTP","level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2025:07:34:40 +0000] \"POST /api/v1/leave HTTP/1.1\" 404 71 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","timestamp":"2025-04-25T07:34:40.104Z"}
+{"context":"HTTP","level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2025:07:37:12 +0000] \"POST /api/v1/leave HTTP/1.1\" 400 115 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","timestamp":"2025-04-25T07:37:12.038Z"}
+{"context":"HTTP","level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2025:07:37:31 +0000] \"POST /api/v1/leave HTTP/1.1\" 400 115 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","timestamp":"2025-04-25T07:37:31.279Z"}
+{"context":"HTTP","level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2025:07:38:21 +0000] \"POST /api/v1/leave HTTP/1.1\" 201 378 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","timestamp":"2025-04-25T07:38:21.374Z"}
+{"context":"HTTP","level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2025:07:39:52 +0000] \"POST /api/v1/leave HTTP/1.1\" 400 115 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","timestamp":"2025-04-25T07:39:52.193Z"}
+{"context":"NestApplication","level":"info","message":"Application running on port 3000","timestamp":"2025-04-25T08:00:01.323Z"}
