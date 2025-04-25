@@ -1,4 +1,3 @@
-![Screenshot from 2025-04-18 10-25-01](https://github.com/user-attachments/assets/4a6e2870-564e-4c77-8589-0a424cca1a3a)
 ![Screenshot from 2025-04-25 13-09-03](https://github.com/user-attachments/assets/fcf41c96-5360-45d6-b04e-809b2cf8f75b)
 ![Screenshot from 2025-04-25 13-10-01](https://github.com/user-attachments/assets/bf8c5c49-ae20-484b-b466-fc731daf93cb)
 ![Screenshot from 2025-04-25 13-11-26](https://github.com/user-attachments/assets/f28a09da-8d85-4a36-9a79-ce8d6b2f9cdc)
